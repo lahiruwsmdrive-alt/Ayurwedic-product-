@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs><linearGradient id="powBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5efe2"/><stop offset="1" stop-color="#dfd0b3"/></linearGradient><filter id="p"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-opacity=".18"/></filter></defs>
+  <rect width="700" height="700" rx="60" fill="url(#powBg)"/>
+  <ellipse cx="350" cy="568" rx="178" ry="31" fill="#6f5735" opacity=".12"/>
+  <g opacity=".72"><path d="M92 452c77-75 145-79 202-34-79-1-143 16-202 34z" fill="#78906b"/><path d="M515 199c4 91-36 137-99 162 21-79 54-131 99-162z" fill="#819369"/></g>
+  <g filter="url(#p)">
+    <path d="M210 206h280l-25 337H235z" fill="#f9f5e9"/>
+    <path d="M210 206h280l-9 77H219z" fill="#465f46"/>
+    <rect x="257" y="313" width="186" height="152" rx="18" fill="#e8d9bd"/>
+    <text x="350" y="350" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#344c3a">AYURA CEYLON</text>
+    <text x="350" y="392" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#8d6538">HERBAL BEAUTY</text>
+    <text x="350" y="418" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#8d6538">POWDER</text>
+    <path d="M322 435c19-26 38-27 57 0-17 15-39 15-57 0z" fill="#829167"/>
+  </g>
+  <g fill="#c89e3d" opacity=".7"><circle cx="160" cy="516" r="16"/><circle cx="194" cy="495" r="11"/><circle cx="541" cy="463" r="14"/></g>
+</svg>

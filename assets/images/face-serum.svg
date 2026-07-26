@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs><linearGradient id="serumBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e1eadb"/><stop offset="1" stop-color="#bdcfb6"/></linearGradient><linearGradient id="drop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d3b079"/><stop offset="1" stop-color="#71532e"/></linearGradient><filter id="ss"><feDropShadow dx="0" dy="20" stdDeviation="17" flood-opacity=".2"/></filter></defs>
+  <rect width="700" height="700" rx="60" fill="url(#serumBg)"/>
+  <ellipse cx="350" cy="590" rx="145" ry="28" fill="#244536" opacity=".15"/>
+  <g opacity=".8"><path d="M104 524c47-116 126-139 193-113-79 19-137 56-193 113z" fill="#6f8d69"/><path d="M533 206c0 92-45 140-113 158 27-79 63-127 113-158z" fill="#628262"/></g>
+  <g filter="url(#ss)">
+    <rect x="273" y="240" width="154" height="310" rx="32" fill="url(#drop)"/>
+    <rect x="287" y="162" width="126" height="102" rx="24" fill="#263f31"/>
+    <rect x="324" y="82" width="52" height="102" rx="16" fill="#d1b386"/>
+    <rect x="300" y="315" width="100" height="147" rx="18" fill="#f9f3e6"/>
+    <text x="350" y="350" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#2a4938">AYURA</text>
+    <text x="350" y="374" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="2" fill="#64766a">CEYLON</text>
+    <text x="350" y="410" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#9a6949">GLOW SERUM</text>
+    <path d="M350 424c-13 15-10 30 0 38 10-8 13-23 0-38z" fill="#c28b67"/>
+  </g>
+  <g fill="#c9898a" opacity=".9"><circle cx="175" cy="478" r="16"/><circle cx="202" cy="500" r="12"/><circle cx="525" cy="444" r="14"/></g>
+</svg>

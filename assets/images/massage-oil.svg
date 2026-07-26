@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs><linearGradient id="mBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7ead1"/><stop offset="1" stop-color="#c7cc9e"/></linearGradient><linearGradient id="bot" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c6935"/><stop offset="1" stop-color="#3d341d"/></linearGradient><filter id="ms"><feDropShadow dx="0" dy="20" stdDeviation="17" flood-opacity=".2"/></filter></defs>
+  <rect width="700" height="700" rx="60" fill="url(#mBg)"/>
+  <ellipse cx="350" cy="590" rx="150" ry="28" fill="#3e4c2b" opacity=".15"/>
+  <g opacity=".75"><path d="M108 505c49-104 121-129 189-103-73 18-130 52-189 103z" fill="#788658"/><path d="M531 201c0 86-42 134-107 155 25-77 58-125 107-155z" fill="#6b7a50"/></g>
+  <g filter="url(#ms)">
+    <rect x="260" y="208" width="180" height="346" rx="42" fill="url(#bot)"/>
+    <rect x="283" y="142" width="134" height="84" rx="22" fill="#b89b64"/>
+    <rect x="304" y="92" width="92" height="66" rx="16" fill="#806541"/>
+    <rect x="289" y="292" width="122" height="162" rx="20" fill="#f4eedf"/>
+    <text x="350" y="329" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#3e5136">AYURA</text>
+    <text x="350" y="353" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="2" fill="#6c735c">CEYLON</text>
+    <text x="350" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#8a6b3e">RELAXING</text>
+    <text x="350" y="412" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#8a6b3e">MASSAGE OIL</text>
+  </g>
+  <g fill="#8d7e41" opacity=".85"><circle cx="170" cy="500" r="13"/><circle cx="205" cy="484" r="10"/><circle cx="533" cy="455" r="13"/></g>
+</svg>
